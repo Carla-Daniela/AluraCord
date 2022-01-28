@@ -1,0 +1,39 @@
+{
+  "name":"Discord - Alura Matrix",
+  "stickes":[
+      "https://tenor.com/01og.gif",
+      "https://tenor.com/bgPN5.gif",
+      "https://tenor.com/tvVZ.gif"
+  ],
+  "theme":{
+      "colors":{
+          "primary":{
+            "050":"#44A1A0",
+            "100":"#78CDD7",
+            "200":"#247B7B",
+            "300":"#0D5C63",
+            "400":"#FFFFFA",
+            "500":"#38AFBC",
+            "600":"#8CCFCE",
+            "700":"#41C8C8",
+            "800":"#26D3E3",
+            "900":"#FFFFD6"
+          },
+          "neutrals":{
+            "000":"#E6E6EA",
+            "050":"#F4F4F6",
+            "100":"#DDDDE3",
+            "200":"#D2D2DA",
+            "300":"#C7C7D1",
+            "400":"#BCBCC8",
+            "500":"#B0B0BF",
+            "600":"#2E2E38",
+            "700":"#25252D",
+            "800":"#1C1C22",
+            "900":"#121216",
+            "999":"#09090B"
+          }
+      }
+      
+  }  
+}
